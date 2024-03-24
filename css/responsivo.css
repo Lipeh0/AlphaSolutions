@@ -1,7 +1,7 @@
 @media (max-width: 768px) {
    .header-background {
       background: #00161C;
-      height: 80vh;
+      height: auto;
    }
 
    .titulo-plans {
@@ -93,15 +93,12 @@
       flex-direction: column;
       align-items: center;
       justify-content: space-evenly;
-      margin: 0 auto;
    }
-
+   .imgs-rodape {
+      margin: 10px;
+   }
    .rodapePrincipal-nav {
       text-align: center;
-   }
-
-   .rodape-apapelaria {
-      padding: 0.5em;
    }
    .cabecalhoPrincipal-nav .cabecalhoPrincipal-nav-link a:hover{
       color: #e0d359;
@@ -111,7 +108,7 @@
     
 }
 
-@media (max-width: 430px) {
+@media (max-width: 420px) {
 
    .button-destaques {
       padding: 13px 40px;
@@ -152,11 +149,11 @@
       margin: 0px auto;
    }
   .icons {
-   width: 50px;
-   height: 50px;
+      width: 50px;
+      height: 50px;
   }
    .imgs-rodape {
-      margin: 0 0;
+      margin-top: 45px;
    }
 
    .rodapePrincipal-nav-link {
@@ -165,8 +162,8 @@
 
    .rodape-apapelaria {
       margin: 0;
-      padding: 5vh;
       height: auto;
+      padding: auto;
    }
    .video-institucional {
       width: 100vw;

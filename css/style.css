@@ -1,5 +1,5 @@
 .header-background {
-  background: url("./img/LogArm.png");
+  background: url("../img/LogArm.png");
   pointer-events: auto !important;
   background-size: 100% !important;
   opacity: 0.90 !important;

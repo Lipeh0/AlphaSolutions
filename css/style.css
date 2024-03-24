@@ -232,8 +232,8 @@
 
 .container-imgs-sobre {
   display: flex;
-  width:  45vw;
-  height: 50vh;
+  width:   500px;
+  height: 310px;
 
 }
 
@@ -413,8 +413,8 @@
 }
 
 .video-institucional {
-  width: 55vw;
-  height: 55vh;
+  width: 50vw;
+  height: 400px;
   margin-top: 20px;
   flex-grow: 1;
   flex-shrink: 2

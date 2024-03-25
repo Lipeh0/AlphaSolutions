@@ -419,9 +419,18 @@
   color: #0084FF;
 }
 
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 25%;
+}
+
 .video-institucional {
-  flex-grow: 1;
-  flex-shrink: 2
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 .subtitulo-plans{
   color: #c7c7c7;

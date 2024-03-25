@@ -5,10 +5,8 @@
   opacity: 0.90 !important;
   background-position: 0 0 !important;
   content: '';
-  width: 100%;
+  width: auto;
   height: auto;
-  background-repeat: no-repeat;
-  padding-bottom: 80px;
 }
 .header-background .logo-alpha{
  width: 2em;
@@ -53,9 +51,9 @@
 .content-plans {
   display: flex;
   flex-direction: column;
-  height: 30vh;
+  height: auto;
   margin: auto;
-  margin-top: 3.5em;
+  padding: 5vh;;
 }
 
 .titulo-plans {
@@ -99,8 +97,8 @@
   padding: 20px;
 }
 .container-destaques img{
- height: 45vh;
- width: 45vw;
+  height: 350px;
+  width: 650px;
 }
 .container-imgs{
   height: 30px;
@@ -232,7 +230,7 @@
 
 .container-imgs-sobre {
   display: flex;
-  width:   500px;
+  width:   40vw;
   height: 310px;
 
 }

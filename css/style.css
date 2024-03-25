@@ -231,7 +231,7 @@
 .container-imgs-sobre {
   display: flex;
   width:   40vw;
-  height: 310px;
+  height: 260px;
 
 }
 
@@ -385,7 +385,7 @@
 .container-institucional {
   margin: 30px auto;
   width: 85%;
-  height: 30em;
+  height: auto;
   display: flex;
 }
 

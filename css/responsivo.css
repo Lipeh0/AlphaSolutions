@@ -87,6 +87,7 @@
 
    .icons-rodape {
       justify-content: center;
+
    }
 
    .container-rodape {
@@ -95,8 +96,9 @@
       justify-content: space-evenly;
    }
    .imgs-rodape {
-      margin: 10px;
+      padding: 20px;
    }
+   
    .rodapePrincipal-nav {
       text-align: center;
    }

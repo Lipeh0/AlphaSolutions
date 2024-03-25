@@ -172,7 +172,11 @@
    }
    .video-container {
       width: 100vw;
+      padding-bottom: 50%;
+      margin:  50px 0;
    }
+
+
    .logo-apps {
     margin-right: 20px;
    }

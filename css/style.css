@@ -423,6 +423,7 @@
   position: relative;
   width: 100%;
   padding-bottom: 25%;
+  margin: 0;
 }
 
 .video-institucional {
@@ -431,6 +432,7 @@
   left: 0;
   width: 100%;
   height: 100%;
+  margin: 0;
 }
 .subtitulo-plans{
   color: #c7c7c7;

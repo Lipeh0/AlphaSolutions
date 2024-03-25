@@ -420,8 +420,6 @@
 }
 
 .video-institucional {
-  width: 50em;
-  height: 20em;
   flex-grow: 1;
   flex-shrink: 2
 }

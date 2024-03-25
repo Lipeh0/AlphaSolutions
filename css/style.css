@@ -420,13 +420,15 @@
 }
 
 .video-institucional {
-  width: 50vw;
+  width: 46vw;
   height: 400px;
   margin-top: 20px;
   flex-grow: 1;
   flex-shrink: 2
 }
-
+.subtitulo-plans{
+  color: #c7c7c7;
+}
 .fist-part {
   flex-direction: column;
   width: 80%;
